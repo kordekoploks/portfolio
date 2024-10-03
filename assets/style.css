@@ -1009,14 +1009,20 @@ h2.menu-item:after {
     border: 2px solid #FFF;
     color: #FFF;
     display: inline-block;
-    height: 35px;
-    width: 35px;
+    height: 60px;
+    width: 60px;
+    line-height:55px;
     transition: all 0.5s;
 }
 
 .social li i {
-    line-height: 32px;
-    font-size: 12px;
+    line-height: 55px;
+    font-size: 30px;
+}
+
+.social li img {
+    line-height: 55px;
+    font-size: 30px;
 }
 
 .social a:hover {
